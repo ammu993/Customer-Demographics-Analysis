@@ -10,7 +10,7 @@ Employing the 6 steps of the Data Analysis Process - **ASK**, **PREPARE**, **PRO
 -To Executive Leadership - short, high-level, and strategic content that communicates the problem, its importance, and how the solution could help to achieve the goals of the organization. Focus on  the big picture, performance metrics, and cost-benefit analysis.  
 -To Sales & Marketing Team - specific and tactical that provides more details on how the outcome of the analysis will impact their specific area of the organization and how they can contribute to the success of the problem-solving.  
 
-## Tools used  
+## Tools Used  
 BigQuery, Excel, Tableau, Google Slides 
 
 ## Data Source
